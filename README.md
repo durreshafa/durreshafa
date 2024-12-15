@@ -37,13 +37,6 @@ Hi! I'm Durre Shafa, a passionate UI/UX designer with over 2 years of experience
 
 ---
 
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
-
 _Designed with ❤️ by Durre Shafa_
 
 
