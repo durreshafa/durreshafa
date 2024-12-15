@@ -28,15 +28,6 @@ Hi! I'm Durre Shafa, a passionate UI/UX designer with over 2 years of experience
 
 ---
 
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Website](https://img.shields.io/badge/Website-Visit-green?style=flat&logo=internet-explorer)](https://yourwebsite.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/your-profile)  
-📧 **Email**: [durreshafa@example.com](mailto:durreshafa@example.com)
-
----
-
 _Designed with ❤️ by Durre Shafa_
 
 
