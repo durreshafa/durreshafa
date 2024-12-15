@@ -1,6 +1,5 @@
 # Hi there, I'm Durre Shafa! 👋
 
-![Profile Picture](https://via.placeholder.com/150)
 
 **UI/UX Designer | CS Graduate | C++ & Python Developer**
 
