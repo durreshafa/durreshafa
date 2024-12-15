@@ -3,34 +3,53 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Durre Shafa | UI/UX Designer</title>
+  <title>Durre Shafa | Portfolio</title>
   <style>
     body {
       font-family: 'Arial', sans-serif;
       margin: 0;
       padding: 0;
       box-sizing: border-box;
-      background: linear-gradient(135deg, #f4f4f4, #eaeaea);
+      background: #f4f4f4;
       color: #333;
     }
     header {
+      text-align: center;
+      padding: 2rem;
       background: #6200ea;
       color: white;
-      padding: 2rem 1rem;
-      text-align: center;
+    }
+    header img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      border: 4px solid #fff;
+      margin-bottom: 1rem;
     }
     header h1 {
-      margin: 0;
       font-size: 2.5rem;
+      margin: 0;
     }
     header p {
-      margin: 0.5rem 0 0;
+      margin: 0.5rem 0 1rem;
       font-size: 1.2rem;
     }
+    .social-links {
+      margin: 1rem 0;
+    }
+    .social-links a {
+      margin: 0 0.5rem;
+      color: white;
+      text-decoration: none;
+      font-size: 1.5rem;
+    }
     section {
-      max-width: 1200px;
+      max-width: 1000px;
       margin: 2rem auto;
       padding: 1rem;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     }
     .about {
       text-align: center;
@@ -52,23 +71,34 @@
       gap: 1rem;
     }
     .skill {
-      background: white;
+      background: #f9f9f9;
       border: 1px solid #ddd;
       border-radius: 5px;
       padding: 1rem;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
       width: 200px;
       text-align: center;
     }
     .skill h3 {
-      margin-bottom: 0.5rem;
       font-size: 1.2rem;
+      margin-bottom: 0.5rem;
+    }
+    .stats {
+      display: flex;
+      justify-content: space-around;
+      margin-top: 2rem;
+    }
+    .stat {
+      text-align: center;
+    }
+    .stat h3 {
+      font-size: 1.5rem;
+      margin: 0;
     }
     footer {
-      background: #6200ea;
-      color: white;
       text-align: center;
       padding: 1rem;
+      background: #6200ea;
+      color: white;
       margin-top: 2rem;
     }
     footer a {
@@ -80,8 +110,15 @@
 <body>
 
 <header>
+  <img src="https://via.placeholder.com/150" alt="Durre Shafa">
   <h1>Durre Shafa</h1>
   <p>UI/UX Designer | CS Graduate | C++ & Python Developer</p>
+  <div class="social-links">
+    <a href="#" target="_blank">🔗 LinkedIn</a>
+    <a href="#" target="_blank">🌐 Website</a>
+    <a href="#" target="_blank">🐦 Twitter</a>
+    <a href="#" target="_blank">📧 Email</a>
+  </div>
 </header>
 
 <section>
@@ -110,6 +147,21 @@
       <p>Git, VS Code, Adobe Creative Suite</p>
     </div>
   </div>
+
+  <div class="stats">
+    <div class="stat">
+      <h3>70+</h3>
+      <p>Projects Completed</p>
+    </div>
+    <div class="stat">
+      <h3>5+</h3>
+      <p>Tools Mastered</p>
+    </div>
+    <div class="stat">
+      <h3>2 Years</h3>
+      <p>Experience</p>
+    </div>
+  </div>
 </section>
 
 <footer>
@@ -120,3 +172,4 @@
 
 </body>
 </html>
+
