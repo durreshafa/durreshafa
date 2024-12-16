@@ -30,8 +30,8 @@ Hi! I'm Durre Shafa, a passionate UI/UX designer with over 2 years of experience
  ## Github Stats📈:
 <p align="center">
     <a href="https://github.com/durreshafa">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=durreshafa&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=durreshafa&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=durreshafa&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=durreshafa&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 
