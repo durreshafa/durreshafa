@@ -39,7 +39,7 @@ Hi! I'm Durre Shafa, a passionate UI/UX designer with over 2 years of experience
 
  <p align="center">
    <a href="https://github.com/durreshafa"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=durreshafa&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
+     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=durreshafa&show_icons=true&locale=en&layout=demo&theme=nightowl&hide_border=true" /> 
    </a>  
  </p>
 
